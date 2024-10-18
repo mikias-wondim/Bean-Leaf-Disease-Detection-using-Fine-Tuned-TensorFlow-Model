@@ -22,7 +22,7 @@ Bean plants are susceptible to various diseases that can significantly impact yi
 - **Objective**: Detect bean leaf diseases using deep learning.
 - **Model**: Fine-tuned pre-trained model (i.e. EfficientNetB0 and ResNet50V2)).
 - **Dataset**: Bean leaf images (healthy and diseased).
-- **Accuracy**: Impressive accuracy of approximately **97%**.
+- **Accuracy**: Impressive accuracy of approximately **97%** which is crossed check in different evaluation metrics.
 
 ## Steps
 1. **Data Collection and Preparation**:
